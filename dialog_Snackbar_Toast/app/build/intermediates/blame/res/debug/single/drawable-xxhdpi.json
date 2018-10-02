@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    }
+]

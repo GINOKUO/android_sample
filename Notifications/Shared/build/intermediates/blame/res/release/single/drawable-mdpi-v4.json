@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_alarm_white_48dp.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_alarm_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_cancel_white_48dp.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_cancel_white_48dp.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_reply_white_18dp.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_reply_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_person_black_48dp.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_person_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_message_black_18dp.png",
+        "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\src\\main\\res\\drawable-mdpi\\ic_message_black_18dp.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]

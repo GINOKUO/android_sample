@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="error_invalid_password">error_invalid_password</string>
+    <string name="error_field_required">error_field_required</string>
+    <string name="error_invalid_email">error_invalid_email</string>
+    <string name="error_incorrect_password">error_incorrect_password</string>
+    <string name="permission_rationale">permission_rationale</string>
+
+
+</resources>

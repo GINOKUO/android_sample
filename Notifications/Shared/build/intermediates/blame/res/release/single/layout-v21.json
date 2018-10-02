@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

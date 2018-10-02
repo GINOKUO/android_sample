@@ -1,0 +1,10 @@
+#Fri Sep 14 10:48:47 CST 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=D\:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.0=D\:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\1

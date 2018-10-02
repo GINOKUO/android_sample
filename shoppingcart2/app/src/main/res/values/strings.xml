@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Adyen Shop</string>
+    <string name="action_currency">Currency</string>
+    <string name="action_installments">Installments</string>
+
+    <string name="set_installments">Set</string>
+    <string name="cancel_installments">Cancel</string>
+
+    <string name="set_installments_title">Set the number of installments</string>
+
+    <!-- LIVE -->
+    <!--string name="public_key">BE+Dr5JbSO6M3LRJt4Xvv0h3NIlbeePpLEK0LZ39WhjJedJAcnI8dnTpJAcicR33R0LnRmQgV+04akGy/j7zWV0=</string-->
+    <string name="public_key">BE+Dr5JbSO6M3LRJt4Xvv0h3NIlbeePpLEK0LZ39WhjJedJAcnI8dnTpJAcicR33R0LnRmQgV+04akGy/j7zWV0=</string>
+    <!-- LIVE GOOGLE -->
+    <!--string name="public_key">BKYH/X57Y7JiOolXpoow2GLBfYLcl7CMhfeV5hYl9WrCUd+D9Pd/ZvsZEfJAtjaSMw7mfLkIZch0EqeYyJs9Ikg=</string-->
+
+    <!-- TEST -->
+    <!--string name="public_key">BOjz2Z8KmO0/d9fP/t0x8xN6IqKbSwqUrZZTb68vTps0KrvP4nbpa1kFekN6lPEncm09ccX0kZBN3p2fOBMkUms=</string-->
+
+    <!-- BOUKE -->
+    <!--string name="public_key">BJdV314YkIxt/saXUtzf/grLrHQxKK4jNxtk5GOFTL3fBXUrDpsw44FKJdP7I+1O96HmLo1M2ja+9P+Hu4FlMUA=</string-->
+
+    <string name="want_to_use_android_pay">Want to use Android Pay instead?\n Set it up using the Android Pay app, and you’ll be all set to pay.</string>
+
+    <string name="error_code">Error code: %d</string>
+    <string name="google_wallet_unavailable">Google Wallet is unavailable</string>
+    <string name="spending_limit_exceeded">You have exceeded your spending limit</string>
+
+    <string name="unsuccessful_tx">The transaction ended with the following error message: \n</string>
+    <string name="successful_tx">The transaction ended successfully</string>
+
+    <string name="loading">Loading&#8230;</string>
+    
+    <string name="select_currency">Select currency</string>
+    <string name="currency_preferences_file_name">currency_preferences</string>
+    <string name="installments_preferences_file_name">installments_preferences</string>
+    <string name="active_currency">activeCurrency</string>
+    <string name="number_of_installments">numberOfInstallments</string>
+</resources>

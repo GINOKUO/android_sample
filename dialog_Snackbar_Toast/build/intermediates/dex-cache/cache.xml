@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_d945650c42e41981aba8d35625dd6efd97ee5aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_6ed9041f8c2e4f0f029b3e9c212b2971b6bd449d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_55768da40796bb3f21b53a1612f6d2bfc1d0557b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_9d6f75112564c1a8a6dad27c297bf34260e6fa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_ca172e6341c53445b77cc5cd5ce6eead6b76e74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_a64f89653e10fb224a556b34bec2ae9cb4f336dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_56512a9c17a3da02939e4e193ada96542c8ffd89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_6f0053df27ac2f80be9c4423ba1220c596101085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_faf14ed446fae92687682aba0a9089a546e0b0a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f9b998a107251af5d844ce722d6cb679a8cf6ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_f1af897f0ac7badcd80ca5df87ec534469a076aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_bf3505586028f3986d9170162d12e355be5f492a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bc56a15d676179d7874028599f88917dc094d65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_40010d8dd896aae4bb3f24af4a537a3343a541e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_f323eaddbb19d4748348291ddb54939bd850adc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_fde6327fc9efe12565f5005f41f056f09eb24947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_74d48c1ad38833f8c5447b17d5c54230926c2312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.3.0_4aa665b36a76b4198385abefb0062af7edb23b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_15d921e2000c047be01d810843e380fd3c714cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Project\android_sample\dialog_Snackbar_Toast\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_c80cd41fa6a63f6483d1e5281d01cb5bdbe55ec9.jar" />
+    </item>
+
+</items>

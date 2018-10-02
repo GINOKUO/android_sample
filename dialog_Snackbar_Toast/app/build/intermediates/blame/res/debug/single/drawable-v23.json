@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab_layout.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\menu\\menu_tab_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_samples.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\menu\\menu_samples.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_bottom_navigation.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_palette_detail.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\menu\\menu_palette_detail.xml"
+    },
+    {
+        "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_bottom_navigation.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_samples.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\menu\\menu_samples.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab_layout.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\menu\\menu_tab_layout.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_palette_detail.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\menu\\menu_palette_detail.xml"
+    }
+]
