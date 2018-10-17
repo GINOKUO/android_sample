@@ -18,7 +18,7 @@
         android:layout_alignRight="@id/header_1"
         android:padding="8dp"
         android:gravity="center_horizontal"
-        android:text="Don't get it?"
+        android:text="tooltip_2Don't get it?"
         app:tooltipColor="#66009900"
         app:anchoredView="@id/header_1" />
 

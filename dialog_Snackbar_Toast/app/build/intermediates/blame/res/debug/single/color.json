@@ -76,12 +76,12 @@
         "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\color\\state_press_black.xml",
-        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\color\\state_press_black.xml"
-    },
-    {
         "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\color\\state_press_black.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\src\\main\\res\\color\\state_press_black.xml"
     },
     {
         "merged": "D:\\Project\\android_sample\\dialog_Snackbar_Toast\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",

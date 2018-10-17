@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0-alpha3.aar\\3e2341701f337e60b930bdd5b68b028e\\res\\values-v21\\values-v21.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",

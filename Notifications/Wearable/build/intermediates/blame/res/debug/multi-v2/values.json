@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\constraintlayout-1.1.0.aar\\78b5e24b15f372f0de352a446137a79c\\res\\values\\values.xml",
@@ -95,22 +95,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Project\\android_sample\\Notifications\\Wearable\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "17,43,31,27,35,39,19,20,23,22,24,25",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "668,2054,1367,1155,1606,1825,725,771,898,814,988,1067",
-                        "endLines": "17,43,34,30,38,42,19,20,23,22,24,25",
-                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "719,2115,1601,1362,1820,2049,766,808,983,893,1062,1149"
+                        "startLines": "19,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "766,668,715",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "807,710,761"
                     },
                     "to": {
-                        "startLines": "2742,2799,2803,2807,2811,2815,2826,2827,2833,2834,2835,2836",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "162396,167788,168101,168340,168552,168771,169967,170013,170578,170668,170752,170831",
-                        "endLines": "2742,2799,2806,2810,2814,2818,2826,2827,2833,2834,2835,2836",
-                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "162447,167849,168335,168547,168766,168995,170008,170050,170663,170747,170826,170913"
+                        "startLines": "220,221,222",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11454,11500,11547",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "11495,11542,11593"
                     }
                 },
                 {
@@ -130,6 +128,23 @@
                         "endLines": "36,1315,1404,5138",
                         "endColumns": "60,24,24,12",
                         "endOffsets": "1771,74309,79520,322129"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Wearable\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "17,23,25,24,22,19,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "668,911,1060,986,839,733,784",
+                        "endColumns": "63,74,72,73,71,50,53",
+                        "endOffsets": "727,981,1128,1055,906,779,833"
+                    },
+                    "to": {
+                        "startLines": "2358,2359,2360,2361,2362,2530,2531",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "137238,137302,137377,137450,137524,148153,148204",
+                        "endColumns": "63,74,72,73,71,50,53",
+                        "endOffsets": "137297,137372,137445,137519,137591,148199,148253"
                     }
                 },
                 {
@@ -207,37 +222,22 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\Project\\android_sample\\Notifications\\Wearable\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "19,17,18",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "766,668,715",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "807,710,761"
+                        "startLines": "17,43,31,27,35,39,19,20,23,22,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "668,2054,1367,1155,1606,1825,725,771,898,814,988,1067",
+                        "endLines": "17,43,34,30,38,42,19,20,23,22,24,25",
+                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "719,2115,1601,1362,1820,2049,766,808,983,893,1062,1149"
                     },
                     "to": {
-                        "startLines": "220,221,222",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "11454,11500,11547",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "11495,11542,11593"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "17,23,25,24,22,19,20",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "668,911,1060,986,839,733,784",
-                        "endColumns": "63,74,72,73,71,50,53",
-                        "endOffsets": "727,981,1128,1055,906,779,833"
-                    },
-                    "to": {
-                        "startLines": "2358,2359,2360,2361,2362,2530,2531",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "137238,137302,137377,137450,137524,148153,148204",
-                        "endColumns": "63,74,72,73,71,50,53",
-                        "endOffsets": "137297,137372,137445,137519,137591,148199,148253"
+                        "startLines": "2742,2799,2803,2807,2811,2815,2826,2827,2833,2834,2835,2836",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "162396,167788,168101,168340,168552,168771,169967,170013,170578,170668,170752,170831",
+                        "endLines": "2742,2799,2806,2810,2814,2818,2826,2827,2833,2834,2835,2836",
+                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "162447,167849,168335,168547,168766,168995,170008,170050,170663,170747,170826,170913"
                     }
                 },
                 {

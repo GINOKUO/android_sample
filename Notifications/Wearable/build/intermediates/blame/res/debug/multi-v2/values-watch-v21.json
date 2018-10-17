@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-alpha3.aar\\fc15928ed504cee7d9553018e3731596\\res\\values-watch-v21\\values-watch-v21.xml",

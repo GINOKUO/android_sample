@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0-alpha3.aar\\ea8f3766718001728e3ecf0c83098ec7\\res\\values-da\\values-da.xml",

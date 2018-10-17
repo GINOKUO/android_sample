@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\Project\\dialog_Snackbar_Toast_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",

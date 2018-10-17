@@ -5,8 +5,439 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69b7cb62-8188-4df1-a072-147381596e62" name="Default" comment="" />
+    <list default="true" id="69b7cb62-8188-4df1-a072-147381596e62" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/entities/Tweet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/MessageQueueTestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/DbOpenHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/SchedulerMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/tasks/SimpleBackgroundTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/models/TweetModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/config/ConfigurationBuilderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/MessageQueueConsumer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobs/DummyJob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/timer/MockTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobqueue/SqliteJobQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/DelayedMessageBagRemoveTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/JobConsumerIdleMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/jobs/Priority.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/testing/StackTraceRule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/CancelMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/java/gino/com/recyclerview/Member.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/MockFwService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src-gen/com/birbit/android/jobqueue/examples/twitter/dao/DaoSession.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/RetryConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/java/gino/com/recyclerview/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/SingleIdTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/LoadFactorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/ApplicationContextTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/CancelReason.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/testing/CleanupRule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/Config.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/Message.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/inMemoryQueue/SimpleInMemoryPriorityQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/DelayedMessageBagAddTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/JobStatusTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CancelBeforeRunningTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/androidTest/java/gino/com/login/ExampleInstrumentedTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/JobManagerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/JobHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/MessageQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/Type.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/FrameworkJobSchedulerServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/InjectorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/RetryLogicTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/NetworkJobWithConnectivityListenerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/TestConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/TagConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/src/main/java/com/birbit/android/jobqueue/lint/NotifyOnObjectDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/JobStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/AddJobMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/JobManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/log/JqLog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/IntCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CancelWithNetworkToggleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/androidTest/java/gino/com/recyclerview/ExampleInstrumentedTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/cachedQueue/CachedJobQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/DelayedMessageBagRecycleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/testing/ThreadDumpRule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/network/NetworkUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/services/MyJobService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/JobManagerTestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/JobManagerThreadRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/network/NetworkUtilImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/controllers/TwitterController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/AssertThreadsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/PublicQueryMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/ConsumerManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/GcmJobSchedulerServiceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobqueue/JobQueueTestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/resources/robolectric.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/Where.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/DelayedRunTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/SafeMessageQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/SchedulerSimpleTestCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/timer/SystemTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/callback/JobManagerCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/src/main/java/com/birbit/android/jobqueue/lint/SleepDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/SlowOnAddedTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/CallbackManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/test/java/gino/com/login/ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/CancelHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CallbackTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/MessagePredicate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/Job.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/events/PostedTweetEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/PriorityMessageQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/NetworkNextJobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/TwitterApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src-gen/com/birbit/android/jobqueue/examples/twitter/dao/TweetDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/BatchingScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/TestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/UnsafeMessageQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/NetworkJobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/testing/CollectLogsRule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/FrameworkScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/JobQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/DefaultQueueFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/src/main/java/com/birbit/android/jobqueue/lint/JobQueueDevelopmentLintRegistery.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/PriorityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/BatchingSchedulerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/GcmSchedulerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/src/main/java/com/birbit/android/jobqueue/lint/SystemTimeDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/RunManyNonPersistentTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/events/DeletedTweetEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/log/CustomLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/SessionIdTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/ReRunWithLimitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/SqliteJobQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/SafeMessageQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CancelFailingJobsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/PersistentJobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/external-libs/greenDAO.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/AsyncAddCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/util/JobQueueFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/models/DbHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/RunningJobSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/DaoGenerator/src/TwitterDaoGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/ThreadFactoryTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/res/layout/list_tweet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/CancelResult.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/HitDeadlineAfterException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/network/NetworkEventProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/PriorityMessageQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/GcmJobSchedulerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/java/gino/com/recyclerview/MemberAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/AddedCountTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CancelWhileRunningTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/Constraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/FrameworkSchedulerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/events/PostingTweetEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/FrameworkJobSchedulerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/ConsumerCountTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/ConsumerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/adapters/LazyListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/test/java/gino/com/recyclerview/ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CountTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/CallbackMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/DelayTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/WrongThreadException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/GroupingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/messaging/MessageFactoryTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/KeepAliveTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/RunFailingJobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/MultiThreadTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/ConstraintChangeMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/scheduling/MockGcmService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/Scheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/activities/BaseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/JobManagerTrojan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/circle.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobqueue/CachedPersistentJobQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/jobs/FetchTweetsJob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/SystemTimerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/settings.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/util/RunningJobSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/DeadlineTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/SampleTwitterClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/QueueFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/config/Configuration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/services/MyGcmJobService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/timer/Timer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/ConsumerControllerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/jobs/PostTweetJob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/RunJobMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/CommandMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/MessageFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/CancelResultMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/DelayedMessageBag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/SchedulerConstraint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/ClearTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobqueue/SimpleInMemoryJobQueueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src-gen/com/birbit/android/jobqueue/examples/twitter/dao/DaoMaster.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/CancelWhileRunningWithGroupsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/AddInBackgroundTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/message/RunJobResultMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/layout/recyclerview_cardview_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobqueue/JobParamsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/di/DependencyInjector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/FileStorage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src/com/birbit/android/jobqueue/examples/twitter/events/FetchedNewTweetsEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/test/java/com/birbit/android/jobqueue/test/jobmanager/NonSerializableJobTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/scheduling/GcmScheduler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/callback/JobManagerCallbackAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/java/gino/com/login/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/app/src/main/res/drawable/n9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/messaging/UnsafeMessageQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/logIn/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/examples/twitter/TwitterClient/src-gen/com/birbit/android/jobqueue/examples/twitter/entities/TweetBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/SqlHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/lint/src/main/java/com/birbit/android/jobqueue/lint/WaitOnObjectWithTimeDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Card_View/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/Params.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../android-priority-jobqueue-master/jobqueue/src/main/java/com/birbit/android/jobqueue/persistentQueue/sqlite/WhereQueryCache.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Date_and_time_pickers/app/src/main/java/gino/com/timepicker/MainActivity.java" afterPath="$PROJECT_DIR$/../Date_and_time_pickers/app/src/main/java/gino/com/timepicker/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../accordion/.idea/modules.xml" afterPath="$PROJECT_DIR$/../accordion/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_c42846cf5f1befe53d1ed6247df62d8e4bd7d9df.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_c42846cf5f1befe53d1ed6247df62d8e4bd7d9df.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UI" afterPath="$PROJECT_DIR$/../UI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/Z8Yw6FbzU+0vOVZA7uATILboJB4=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/Z8Yw6FbzU+0vOVZA7uATILboJB4=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../accordion/.idea/misc.xml" afterPath="$PROJECT_DIR$/../accordion/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GreenDao" afterPath="$PROJECT_DIR$/../GreenDao" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../accordion/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../accordion/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GridView/app/src/main/java/gino/com/gridview/MainActivity.java" afterPath="$PROJECT_DIR$/../GridView/app/src/main/java/gino/com/gridview/MainActivity.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,20 +461,130 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <file leaf-file-name="PaletteDetailActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/PaletteDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="748">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
+        </entry>
+      </file>
+      <file leaf-file-name="activity_fab.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fab.xml">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_app_bar_layout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_bar_layout.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FabActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/FabActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+              <folding>
+                <element signature="e#4525#4526#0" expanded="true" />
+                <element signature="e#4558#4559#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fragment.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Android_SDK/extras/android/m2repository/com/android/support/support-fragment/25.0.0/support-fragment-25.0.0-sources.jar!/android/support/v4/app/Fragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2728">
+              <caret line="180" column="13" lean-forward="false" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabListFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/fragment/TabListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/BaseActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_simple_list_2.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_simple_list_2.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_tab_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_list.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btn_tab_fab</find>
+      <find>search_result</find>
+      <find>contentScrim</find>
+      <find>tabIndicators</find>
+      <find>initContent</find>
+      <find>onConfigurationChanged</find>
+      <find>ContentPagerAdapter</find>
+      <find>add</find>
+      <find>ViewPager</find>
+      <find>TabListFragment</find>
+      <find>PageView</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1650,12 +2191,23 @@
       <projects_view />
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_simple_list_2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/fragment/TabListFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/FabActivity.java" />
+      </list>
+    </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2409" />
+    <option name="y" value="-9" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -1675,79 +2227,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dialog_Snackbar_Toast_master" />
+              <option name="myItemId" value="dialog_Snackbar_Toast" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dialog_Snackbar_Toast_master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dialog_Snackbar_Toast_master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yifeng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdstudysamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dialog_Snackbar_Toast_master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidManifestsGroupNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="device.picker.selection" value="192.168.39.5:5555" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Date_and_time_pickers" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quickstart-android-master" />
+    <property name="android.profiler.active" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1832,7 +2332,55 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536908324371" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1538986379661" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1538986379661" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1848,6 +2396,86 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dialog_Snackbar_Toast" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dialog_Snackbar_Toast" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1884,6 +2512,52 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dialog_Snackbar_Toast" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dialog_Snackbar_Toast" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="dialog_Snackbar_Toast" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -1932,7 +2606,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536908324371" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1538986379713" />
       </method>
     </configuration>
     <list size="1">
@@ -1960,6 +2634,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gino_kuo\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="69b7cb62-8188-4df1-a072-147381596e62" name="Default" comment="" />
@@ -1971,26 +2648,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <frame x="-2409" y="-9" width="2418" height="1318" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5021436" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32905483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263889" sideWeight="0.49785638" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19863598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2004,17 +2681,111 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/PaletteDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fab.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_bar_layout.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/FabActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+          <folding>
+            <element signature="e#4525#4526#0" expanded="true" />
+            <element signature="e#4558#4559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android_SDK/extras/android/m2repository/com/android/support/support-fragment/25.0.0/support-fragment-25.0.0-sources.jar!/android/support/v4/app/Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2728">
+          <caret line="180" column="13" lean-forward="false" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/fragment/TabListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_simple_list_2.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2030,8 +2801,345 @@
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/behavior/FloatingActionButtonBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_tab_layout_custom.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_content.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_text_input.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tab_layout_top.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tab_layout_bottom.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_snackbar.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_search_result.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_custom_behavior_dependent.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_custom_behavior_nested.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_behavior_expend.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_bottom_navigation.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_simple_list_1.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_palette_detail.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="19" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="89" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="13" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android_SDK/extras/android/m2repository/com/android/support/support-fragment/25.0.0/support-fragment-25.0.0-sources.jar!/android/support/v4/app/FragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="837" column="27" lean-forward="false" selection-start-line="837" selection-start-column="27" selection-end-line="837" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_samples.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android_SDK/extras/android/m2repository/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0-sources.jar!/android/support/v7/app/AppCompatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="111" column="21" lean-forward="false" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="111" column="3420" lean-forward="false" selection-start-line="111" selection-start-column="3420" selection-end-line="111" selection-end-column="3420" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="53" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="31" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fab.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_bar_layout.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_simple_list_2.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/PaletteDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Android_SDK/sources/android-25/com/android/printspooler/ui/PageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="378" column="5" lean-forward="true" selection-start-line="378" selection-start-column="5" selection-end-line="378" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/FabActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
+          <folding>
+            <element signature="e#4525#4526#0" expanded="true" />
+            <element signature="e#4558#4559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Android_SDK/extras/android/m2repository/com/android/support/support-fragment/25.0.0/support-fragment-25.0.0-sources.jar!/android/support/v4/app/Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2728">
+          <caret line="180" column="13" lean-forward="false" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/fragment/TabListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yifeng/mdstudysamples/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

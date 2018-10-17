@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-15.0.1.aar\\eecd8e5414c02d3952247022513d5277\\res\\values-sl\\values.xml",

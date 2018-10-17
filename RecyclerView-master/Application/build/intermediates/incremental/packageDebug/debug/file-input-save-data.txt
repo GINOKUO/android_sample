@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 02 16:54:15 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Project\\android_sample\\android-RecyclerView-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

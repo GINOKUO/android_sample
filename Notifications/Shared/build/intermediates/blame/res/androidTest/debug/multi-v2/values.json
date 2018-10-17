@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Shared\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "43",
-                        "endOffsets": "94"
-                    },
-                    "to": {
-                        "startLines": "222",
-                        "startColumns": "4",
-                        "startOffsets": "13697",
-                        "endColumns": "43",
-                        "endOffsets": "13736"
-                    }
-                },
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-alpha3.aar\\20837a5fa2b88cd99fd3247a5a924cf8\\res\\values\\values.xml",
                     "from": {
@@ -73,6 +56,23 @@
                         "endLines": "3,4,7,9,151,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,210,211,212,213,214,215,216,217,218,219,221,223,224,228,230,236,238,240,241",
                         "endColumns": "68,62,57,73,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "180,243,461,608,9329,11394,11464,11532,11604,11674,11735,11809,11882,11943,12004,12066,12130,12192,12253,12321,12421,12481,12547,12620,12689,12746,12798,12860,13144,13220,13255,13290,13340,13401,13458,13492,13527,13562,13692,13807,13924,14125,14301,14685,14880,15019,15086"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Shared\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "222",
+                        "startColumns": "4",
+                        "startOffsets": "13697",
+                        "endColumns": "43",
+                        "endOffsets": "13736"
                     }
                 }
             ]

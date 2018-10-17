@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "18,19",
-                        "startColumns": "4,4",
-                        "startOffsets": "718,776",
-                        "endColumns": "57,55",
-                        "endOffsets": "771,827"
-                    },
-                    "to": {
-                        "startLines": "1802,1803",
-                        "startColumns": "4,4",
-                        "startOffsets": "106779,106837",
-                        "endColumns": "57,55",
-                        "endOffsets": "106832,106888"
-                    }
-                },
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\transition-1.0.0-alpha3.aar\\9f48dfdabd4278d66a0cdb05a864241e\\res\\values\\values.xml",
                     "from": {
@@ -57,6 +40,23 @@
                     }
                 },
                 {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "19,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "744,646,693",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "785,688,739"
+                    },
+                    "to": {
+                        "startLines": "68,69,70",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4267,4313,4360",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "4308,4355,4406"
+                    }
+                },
+                {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-alpha3.aar\\20837a5fa2b88cd99fd3247a5a924cf8\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,5,6,7,8,10,11,12,13,14",
@@ -71,6 +71,23 @@
                         "startOffsets": "7882,115544,115597,115650,115703,238353,238529,238651,238913,239108",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "7966,115592,115645,115698,115751,238414,238646,238707,238974,239170"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "718,776",
+                        "endColumns": "57,55",
+                        "endOffsets": "771,827"
+                    },
+                    "to": {
+                        "startLines": "1802,1803",
+                        "startColumns": "4,4",
+                        "startOffsets": "106779,106837",
+                        "endColumns": "57,55",
+                        "endOffsets": "106832,106888"
                     }
                 },
                 {
@@ -112,78 +129,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "19,17,18",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "744,646,693",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "785,688,739"
-                    },
-                    "to": {
-                        "startLines": "68,69,70",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4267,4313,4360",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "4308,4355,4406"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\base-strings.xml",
-                    "from": {
-                        "startLines": "18,19",
-                        "startColumns": "4,4",
-                        "startOffsets": "647,702",
-                        "endLines": "18,31",
-                        "endColumns": "54,13",
-                        "endOffsets": "697,1232"
-                    },
-                    "to": {
-                        "startLines": "2046,2072",
-                        "startColumns": "4,4",
-                        "startOffsets": "121902,125229",
-                        "endLines": "2046,2084",
-                        "endColumns": "54,13",
-                        "endOffsets": "121952,125759"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "30,26,34,38,18,19,22,21,23,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1289,1077,1528,1747,647,693,820,736,910,989",
-                        "endLines": "33,29,37,41,18,19,22,21,23,24",
-                        "endColumns": "13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "1523,1284,1742,1971,688,730,905,815,984,1071"
-                    },
-                    "to": {
-                        "startLines": "2085,2089,2093,2097,2107,2108,2111,2112,2113,2114",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "125764,126003,126215,126434,127546,127592,127758,127848,127932,128011",
-                        "endLines": "2088,2092,2096,2100,2107,2108,2111,2112,2113,2114",
-                        "endColumns": "13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "125998,126210,126429,126658,127587,127629,127843,127927,128006,128093"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
-                    "from": {
-                        "startLines": "28,24,23,22,21,20,29",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "959,880,836,791,748,706,1029",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "1024,918,875,831,786,743,1092"
-                    },
-                    "to": {
-                        "startLines": "1870,1874,1875,1876,1877,1878,1952",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "111302,111595,111638,111682,111727,111770,116209",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "111367,111633,111677,111722,111765,111807,116272"
-                    }
-                },
-                {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-15.0.1.aar\\dc920fc058c5f7a785b90d8715a974bb\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -220,6 +165,42 @@
                     }
                 },
                 {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
+                    },
+                    "to": {
+                        "startLines": "1870,1874,1875,1876,1877,1878,1952",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "111302,111595,111638,111682,111727,111770,116209",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "111367,111633,111677,111722,111765,111807,116272"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "30,26,34,38,18,19,22,21,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1289,1077,1528,1747,647,693,820,736,910,989",
+                        "endLines": "33,29,37,41,18,19,22,21,23,24",
+                        "endColumns": "13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "1523,1284,1742,1971,688,730,905,815,984,1071"
+                    },
+                    "to": {
+                        "startLines": "2085,2089,2093,2097,2107,2108,2111,2112,2113,2114",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "125764,126003,126215,126434,127546,127592,127758,127848,127932,128011",
+                        "endLines": "2088,2092,2096,2100,2107,2108,2111,2112,2113,2114",
+                        "endColumns": "13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "125998,126210,126429,126658,127587,127629,127843,127927,128006,128093"
+                    }
+                },
+                {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-1.0.0-alpha3.aar\\fd4a01974de947cc17fdcfdb8e9b73ad\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,30,31,32,33,34,35,36",
@@ -239,7 +220,26 @@
                     }
                 },
                 {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "647,702",
+                        "endLines": "18,31",
+                        "endColumns": "54,13",
+                        "endOffsets": "697,1232"
+                    },
+                    "to": {
+                        "startLines": "2046,2072",
+                        "startColumns": "4,4",
+                        "startOffsets": "121902,125229",
+                        "endLines": "2046,2084",
+                        "endColumns": "54,13",
+                        "endOffsets": "121952,125759"
+                    }
+                },
+                {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
@@ -275,6 +275,25 @@
                     }
                 },
                 {
+                    "source": "D:\\Project\\android_sample\\Notifications\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "2124,3960,4015,4045,4393,4397",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "128817,249072,252694,255025,277883,278079",
+                        "endLines": "2124,3960,4015,4045,4396,4402",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "128863,249127,252742,255047,278074,278352"
+                    }
+                },
+                {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-15.0.1.aar\\eecd8e5414c02d3952247022513d5277\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,33,46,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30",
@@ -291,25 +310,6 @@
                         "endLines": "71,72,73,74,75,76,77,78,1177,1468,2051,2052,2053,2054,2055,2056,2057,2058,2060,2061,2062,2063,2064,2065,2066,2067,2068",
                         "endColumns": "89,79,89,89,79,80,79,79,20,20,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
                         "endOffsets": "4496,4576,4666,4756,4836,4917,4997,5077,68288,85385,122529,122710,122835,122942,123122,123245,123361,123464,123819,123924,124105,124230,124405,124553,124616,124678,124757"
-                    }
-                },
-                {
-                    "source": "D:\\Project\\android_sample\\android-Notifications-master\\Application\\src\\main\\res\\values\\template-styles.xml",
-                    "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "768,651,713,849,878,1075",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "815,707,762,872,1069,1348"
-                    },
-                    "to": {
-                        "startLines": "2124,3960,4015,4045,4393,4397",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "128817,249072,252694,255025,277883,278079",
-                        "endLines": "2124,3960,4015,4045,4396,4402",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "128863,249127,252742,255047,278074,278352"
                     }
                 }
             ]

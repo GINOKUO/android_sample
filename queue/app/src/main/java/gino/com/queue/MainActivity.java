@@ -10,7 +10,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class MainActivity extends AppCompatActivity{
 
     Button btn;
     TextView tv;
@@ -21,23 +24,24 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btn = (Button) findViewById(R.id.button);
         tv = (TextView) findViewById(R.id.tv);
-        btn.setOnClickListener(this);
-    }
 
-    @Override
-    public void onClick(View v) {
-        //Intent intent = new Intent(this,Main2Activity.class);
-        //startActivity(intent);
-
-    }
-
-    class task extends AsyncTask<>{
-
-        @Override
-        protected Object doInBackground(Object[] objects) {
-            return null;
+        final Queue q = new LinkedList();
+        q.offer("First");
+        q.offer("Second");
+        q.offer("Third");
+        Object o;
+        System.out.println(q.toString());
+        while((o = q.poll()) != null) {
+            final String s = (String)o;
+            System.out.println(s);
+            hander.post(new Runnable() {
+                @Override
+                public void run() {
+                    tv.setText(s);
+                }
+            });
         }
+        System.out.println(q.toString());
     }
 }

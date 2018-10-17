@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Project\\android_sample\\android-Notifications-master\\Shared\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "D:\\Project\\android_sample\\Notifications\\Shared\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gino_kuo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-alpha3.aar\\1605fb1610775c6bae82814005782787\\res\\values-az\\values-az.xml",

@@ -44,7 +44,8 @@ public class CitySuggestionProvider extends ContentProvider {
             Log.d("NGVL", "WEB");
             OkHttpClient client = new OkHttpClient();
             Request request = new Request.Builder()
-                    .url("https://dl.dropboxusercontent.com/u/6802536/cidades.json")
+                    .url("https://google.com")
+                    //.url("https://dl.dropboxusercontent.com/u/6802536/cidades.json")
                     .build();
 
             try {

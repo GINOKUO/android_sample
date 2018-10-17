@@ -37,6 +37,7 @@ public class MainActivity extends Activity {
         list.add("list 1");
         list.add("list 2");
         list.add("list 3");
+        //String[] list2 = {"gino", "jack"};
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_spinner_item, list);
         dataAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);

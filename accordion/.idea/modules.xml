@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_accordion_view-master.iml" filepath="$PROJECT_DIR$/Android_accordion_view-master.iml" />
       <module fileurl="file://D:\Project\android_sample\Android_accordion_view-master\EasyAccordionDemo.iml" filepath="D:\Project\android_sample\Android_accordion_view-master\EasyAccordionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accordion.iml" filepath="$PROJECT_DIR$/accordion.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\Project\android_sample\Android_accordion_view-master\app\app.iml" filepath="D:\Project\android_sample\Android_accordion_view-master\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyaccordion/easyaccordion.iml" filepath="$PROJECT_DIR$/easyaccordion/easyaccordion.iml" />

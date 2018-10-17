@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 //取得 hour的值，透過TimeFix方法。轉換成String.並初始H。
                 H = TimeFix(hourOfDay);
+
                 //取得 minute的值，透過TimeFix方法。轉換成String.並初始M。
                 M = TimeFix(minute);
                 //將取得的資料設定到 textTime1

@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:1-99:12
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:1-99:12
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:1-99:12
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:1-99:12
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:1-99:12
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:1-99:12
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\3e2341701f337e60b930bdd5b68b028e\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha3.aar\fc15928ed504cee7d9553018e3731596\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.wear:wear:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\wear-1.0.0-alpha3.aar\ea8f3766718001728e3ecf0c83098ec7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\dba73a1a48eabfa89ca15329eda47fe7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\6d3619dd02cf9596ea392ba59cb4df51\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:2:1-15:12
-MERGED from [:Shared] D:\Project\android_sample\android-Notifications-master\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:1-26:12
+MERGED from [:Shared] D:\Project\android_sample\Notifications\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:1-26:12
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\1405dbb3c3e7610a1baf94384ece22e4\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\dc920fc058c5f7a785b90d8715a974bb\AndroidManifest.xml:17:1-28:12
@@ -44,38 +44,38 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-alpha1] C:\Users\gino_ku
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-alpha1.aar\a2d1c62a763c775aa470ca663159813f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-alpha1.aar\ead4249ae150afe797ec20d8efac0158\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\fe0cb64767403e5402eecd39370de8e2\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:1-99:12
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:1-99:12
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:1-99:12
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:1-99:12
 	package
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:18:11-72
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:18:11-72
 	android:versionName
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:20:11-36
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:20:11-36
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:17:11-69
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:19:11-34
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:19:11-34
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 uses-feature#android.hardware.type.watch
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:22:5-63
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:22:5-63
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:22:19-61
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:22:19-61
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:24:5-68
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:24:22-65
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:24:22-65
 application
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:26:5-98:19
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:26:5-98:19
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\3e2341701f337e60b930bdd5b68b028e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\3e2341701f337e60b930bdd5b68b028e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\6d3619dd02cf9596ea392ba59cb4df51\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\6d3619dd02cf9596ea392ba59cb4df51\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:9:5-13:19
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:9:5-13:19
-MERGED from [:Shared] D:\Project\android_sample\android-Notifications-master\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
-MERGED from [:Shared] D:\Project\android_sample\android-Notifications-master\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] D:\Project\android_sample\Notifications\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] D:\Project\android_sample\Notifications\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\1405dbb3c3e7610a1baf94384ece22e4\AndroidManifest.xml:7:5-20
@@ -91,99 +91,99 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\gino_kuo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\core-1.0.0-alpha3.aar\1605fb1610775c6bae82814005782787\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:29:18-44
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:29:18-44
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:28:18-50
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:28:18-50
 	android:icon
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:27:18-52
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:27:18-52
 	android:allowBackup
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:26:18-44
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:26:18-44
 	android:theme
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:30:18-63
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:30:18-63
 meta-data#com.google.android.wearable.standalone
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:33:9-96
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:33:9-96
 	android:value
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:33:74-94
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:33:74-94
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:33:20-73
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:33:20-73
 uses-library#com.google.android.wearable
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:48:9-93
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:48:9-93
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:10:9-12:40
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:10:9-12:40
 	android:required
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:48:66-90
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:48:66-90
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:48:23-65
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:48:23-65
 activity#com.example.android.wearable.wear.wearnotifications.StandaloneMainActivity
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:50:9-56:20
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:50:9-56:20
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:51:19-51
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:51:19-51
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:50:19-57
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:50:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:52:13-55:29
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:52:13-55:29
 action#android.intent.action.MAIN
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:53:17-69
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:53:25-66
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:53:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:54:17-77
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:54:27-74
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:54:27-74
 activity#com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:59:9-63:20
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:59:9-63:20
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:61:13-65
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:61:13-65
 	android:taskAffinity
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:62:13-36
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:62:13-36
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:60:13-57
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:60:13-57
 activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:65:9-69:20
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:65:9-69:20
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:67:13-68
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:67:13-68
 	android:taskAffinity
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:68:13-36
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:68:13-36
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:66:13-66
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:66:13-66
 activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:72:9-76:20
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:72:9-76:20
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:74:13-62
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:74:13-62
 	android:taskAffinity
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:75:13-36
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:75:13-36
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:73:13-55
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:73:13-55
 activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:78:9-82:20
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:78:9-82:20
 	android:label
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:80:13-66
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:80:13-66
 	android:taskAffinity
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:81:13-36
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:81:13-36
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:79:13-59
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:79:13-59
 service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:84:9-87:19
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:84:9-87:19
 	android:exported
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:86:13-37
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:86:13-37
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:85:13-58
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:85:13-58
 service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:89:9-92:19
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:89:9-92:19
 	android:exported
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:91:13-37
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:91:13-37
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:90:13-60
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:90:13-60
 service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
-ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:94:9-97:19
+ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:94:9-97:19
 	android:exported
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:96:13-37
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:96:13-37
 	android:name
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml:95:13-67
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml:95:13-67
 uses-sdk
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\3e2341701f337e60b930bdd5b68b028e\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\3e2341701f337e60b930bdd5b68b028e\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0-alpha3] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha3.aar\fc15928ed504cee7d9553018e3731596\AndroidManifest.xml:20:5-44
@@ -196,8 +196,8 @@ MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\gino
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\6d3619dd02cf9596ea392ba59cb4df51\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.3.0.aar\3b4f63029a5a3b864b9d253a7a7893bb\AndroidManifest.xml:5:5-7:41
-MERGED from [:Shared] D:\Project\android_sample\android-Notifications-master\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
-MERGED from [:Shared] D:\Project\android_sample\android-Notifications-master\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] D:\Project\android_sample\Notifications\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] D:\Project\android_sample\Notifications\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\1405dbb3c3e7610a1baf94384ece22e4\AndroidManifest.xml:5:5-44
@@ -266,16 +266,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-alpha1.aar\ead4249ae150afe797ec20d8efac0158\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\fe0cb64767403e5402eecd39370de8e2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0-alpha1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-alpha1.aar\fe0cb64767403e5402eecd39370de8e2\AndroidManifest.xml:20:5-44
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		ADDED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
-		INJECTED from D:\Project\android_sample\android-Notifications-master\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\android_sample\Notifications\Wearable\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\gino_kuo\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\eecd8e5414c02d3952247022513d5277\AndroidManifest.xml:23:9-26:75
 	android:exported
