@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity implements IVLCVout.Callback
             mMediaPlayer.setMedia(m);
             mMediaPlayer.play();
         } catch (Exception e) {
-            Toast.makeText(this, "Error in creating player!", Toast
+            Toast.makeText(this, "Error in crvideoVieweating player!", Toast
                     .LENGTH_LONG).show();
         }
     }
